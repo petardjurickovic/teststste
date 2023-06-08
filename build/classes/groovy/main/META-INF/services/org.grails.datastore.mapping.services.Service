@@ -1,0 +1,14 @@
+quiz.$AnswerServiceImplementation
+quiz.$QuestionServiceImplementation
+quiz.$QuizAttemptServiceImplementation
+quiz.$QuizServiceImplementation
+spec.auth.$RoleServiceImplementation
+spec.auth.$UserRoleServiceImplementation
+spec.auth.$UserServiceImplementation
+spec.test.$CategoryServiceImplementation
+spec.test.$CourseCategoryServiceImplementation
+spec.test.$CourseServiceImplementation
+spec.test.$EnrollmentServiceImplementation
+spec.test.$FileServiceImplementation
+spec.test.$LessonServiceImplementation
+spec.test.$ModuleServiceImplementation

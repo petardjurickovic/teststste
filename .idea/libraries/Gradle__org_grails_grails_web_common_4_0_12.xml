@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.grails:grails-web-common:4.0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/4.0.12/80d65177ead2b8944592d46d71bb128ccf066a52/grails-web-common-4.0.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/4.0.12/7bbfa4b4fffbd7229da776f39e48de2d34876c6e/grails-web-common-4.0.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

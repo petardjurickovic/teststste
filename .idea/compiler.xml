@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="duduk.integrationTest" target="1.8" />
+      <module name="duduk.main" target="1.8" />
+      <module name="duduk.test" target="1.8" />
+      <module name="spec.integrationTest" target="1.8" />
+      <module name="spec.main" target="1.8" />
+      <module name="spec.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
